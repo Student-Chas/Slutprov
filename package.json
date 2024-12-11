@@ -1,0 +1,13 @@
+{
+  "name": "my-js-project",
+  "version": "1.0.0",
+  "description": "A simple JS project with Jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
